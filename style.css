@@ -7,4 +7,14 @@ h1 {
 
 body {
     font-family: "Manrope";
+    background-color: #ccc;
+    background-image: url("https://cdn.shopify.com/s/files/1/0018/9890/5651/products/Candle_shopify_DN_1800x1800.jpg?v=1616446223");
+    background-repeat: repeat;
+    background-position: center;
+    background-attachment: local;
+}
+
+.music {
+    border-radius: 15px;
+    background-color: #ccc;
 }
